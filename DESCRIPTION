@@ -84,13 +84,8 @@ Suggests:
     XML
 Remotes:
     CeresBarros/biomod2@dev_currentCeres,
-    RNCan/BioSimClient_R,
-    PredictiveEcology/map@development,
-    PredictiveEcology/pemisc@development,
-    PredictiveEcology/quickPlot@development,
-    PredictiveEcology/reproducible@development,
-    PredictiveEcology/SpaDES.core@development,
-    PredictiveEcology/SpaDES.tools@development
+    RNCan/BioSimClient_R
+Additional_repositories: https://predictiveecology.r-universe.dev/
 Encoding: UTF-8
 Language: en-CA
 License: GPL-3
